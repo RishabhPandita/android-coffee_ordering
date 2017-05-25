@@ -1,4 +1,4 @@
-# android-coffee_ordering.
+# android-coffee_ordering
 Android application for ordering coffee online. 
 Ingredients of coffee is asked from user as an input. 
 Total price of coffee is displayed to user according to customized order. 
